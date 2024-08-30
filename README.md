@@ -1,9 +1,6 @@
 # File-sharing-Bot
 
-what is new?
-Fixed
-[30-Aug-24 14:50:59 - WARNING] - bot - Peer id invalid: -100217618xxxx
-[30-Aug-24 14:50:59 - WARNING] - bot - Make Sure bot is Admin in DB Channel, and Double check the CHANNEL_ID Value, Current Value -100217618xxxx
+Peer ID Invalid - Fixed
 
 
 Telegram Bot to store Posts and Documents and it can Access by Special Links.
